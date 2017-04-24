@@ -1,0 +1,16 @@
+Resources Used
+https://github.com/uiucseclab
+https://github.com/ianare/exif-py
+http://stackoverflow.com/questions/7555842/questions-about-exif-in-hexadecimal-form
+http://www.exif.org/Exif2-2.PDF
+http://www.blog.pythonlibrary.org/2010/03/28/getting-photo-metadata-exif-using-python/
+https://pypi.python.org/pypi/piexif
+http://piexif.readthedocs.io/en/latest/
+http://www.sno.phy.queensu.ca/~phil/exiftool/TagNames/EXIF.html
+https://docs.python.org/3.6/library/uuid.html#uuid.uuid5
+https://pypi.python.org/pypi/colorama
+http://stackoverflow.com/questions/19786301/python-remove-exif-info-from-images
+https://pillow.readthedocs.io/en/4.1.x/
+https://github.com/python-pillow/Pillow/issues/1605
+
+
